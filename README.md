@@ -27,16 +27,16 @@ Although the interactive filter mentioned above is working, many bugs still exis
 ## 4. Coding resources
 
 Locate the user:
-https://docs.mapbox.com/mapbox-gl-js/example/locate-user/
+https://docs.mapbox.com/mapbox-gl-js/example/locate-user/<br />
 Center the map on a clicked symbol:
-https://docs.mapbox.com/mapbox-gl-js/example/center-on-symbol/
+https://docs.mapbox.com/mapbox-gl-js/example/center-on-symbol/<br />
 Fit to the bounds of a LineString:
-https://docs.mapbox.com/mapbox-gl-js/example/zoomto-linestring/
+https://docs.mapbox.com/mapbox-gl-js/example/zoomto-linestring/<br />
 API Reference:
-https://docs.mapbox.com/mapbox-gl-js/api/
+https://docs.mapbox.com/mapbox-gl-js/api/<br />
 Display a popup on click:
-https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
+https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/<br />
 Dynamic charts:
-https://labs.mapbox.com/education/impact-tools/line-charts/
+https://labs.mapbox.com/education/impact-tools/line-charts/<br />
 Filter features within map view:
-https://docs.mapbox.com/mapbox-gl-js/example/filter-features-within-map-view/
+https://docs.mapbox.com/mapbox-gl-js/example/filter-features-within-map-view/<br />
