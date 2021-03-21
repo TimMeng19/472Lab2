@@ -9,9 +9,9 @@
 
 ##  2. The Github Pages link to the web map
 
+https://timmeng19.github.io/472Lab2/map.html
 
-
-The Mapbox style file can be found in the main page of this repo
+The Mapbox html(commented) file can be found in the main page of this repo
 
 ## 3. The Reflective Analysis
 
